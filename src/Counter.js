@@ -4,12 +4,7 @@ import './App.css';
 const Counter = () => {
   const [count, setCount] = useState(0);
 
-  //let ab =
-    //count === 0 ? 'circle neutral' ? : count %10 ===0 ? 'circle pink' : count %2 === 0 ? 'circle even' : 'circle odd'
-
-
-
-  return (
+    return (
     <div>
     <h2>Hooks</h2>
     <div className = 'circle'>
